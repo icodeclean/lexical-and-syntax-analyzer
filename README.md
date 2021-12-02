@@ -1,1 +1,2 @@
-# lexical-and-syntax-analyzer
+# lexical-and-syntax-analyser
+A lexical and syntax analyzer for C language
